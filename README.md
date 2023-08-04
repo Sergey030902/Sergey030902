@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![stats](https://github-readme-stats.vercel.app/api?username=sergey030902&theme=tokyonight&show_icons=true)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bfa25f263b0aea1d9c3250?variant=dark)](https://roadmap.sh)
+![stats](https://github-readme-stats.vercel.app/api?username=sergey030902&show_icons=true&bg_color=00000000)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64bfa25f263b0aea1d9c3250?variant=light" alt="roadmap.sh"/></a>
