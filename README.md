@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![stats](https://github-readme-stats.vercel.app/api?username=sergey030902&show_icons=true&bg_color=00000000)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bfa25f263b0aea1d9c3250?variant=light)](https://roadmap.sh)
