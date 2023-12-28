@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=30&pause=1000&color=FF4809&background=FFFFFF00&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Triangles&size=30&pause=1000&color=FF4809&background=FFFFFF00&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!--
 **sergey030902/sergey030902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
